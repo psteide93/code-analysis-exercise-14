@@ -19,14 +19,14 @@ function (user){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| John, true       | "Welcome back, John | 
+|  Sara, false     |"Hey Sara Would you like to renew your subscription" |
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This function will determine if the user is active or not and will display a message on the screen accordingly, interpolationg the user's name.
+</td>
   </tr>
 </table>
 
